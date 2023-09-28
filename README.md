@@ -1,1 +1,2 @@
-# Bill-Splitter
+## tHIS IS README
+
